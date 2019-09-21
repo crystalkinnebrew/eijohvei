@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eazazeidee.viviier.com/sitemap.xml
